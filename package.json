@@ -3,9 +3,8 @@
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
+    "start": "node index.js",
+    "build": "webpack --config webpack.config.js"
   },
   "private": true,
   "dependencies": {
