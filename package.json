@@ -2,10 +2,7 @@
   "name": "@notification-workspace2/source",
   "version": "0.0.0",
   "license": "MIT",
-  "scripts": {
-    "start": "node index.js",
-    "build": "webpack --config webpack.config.js"
-  },
+  "scripts": {},
   "private": true,
   "dependencies": {
     "@nestjs/common": "^10.0.2",
